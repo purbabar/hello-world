@@ -1,10 +1,6 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>new use  Learning</h1>
-    <hr>
-     
-  </div>
-
-
-  
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
 </form>
